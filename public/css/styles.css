@@ -1,0 +1,135 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+}
+
+header {
+    background-color: #EAC926;
+    background-size: cover;
+}
+
+main {
+    background-color: #ebebeb;
+}
+
+main p, main h2 {
+    margin-left: 10px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+.precios {
+    font-size: 18px;
+}
+
+.descuentos {
+    font-size: 16px;
+}
+
+.descripciones {
+    font-size: 16px;
+}
+
+.home-banner{
+    margin-bottom: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+li span {
+    padding-right: 3px;
+}
+
+.burguer {
+    text-align: center;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.logo {
+    width: 110px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 100%;
+    margin-bottom: 10px;
+}
+
+.nav-bar {
+    margin-left: 15px;
+    margin-bottom: 1px;
+    padding: 1px;
+    background-color: white;
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    color: #666;
+    padding-right: 15px;
+    width: max-content;
+    border-radius: 2px;
+    font-weight: 500;
+}
+
+.fa-magnifying-glass {
+    margin-left: 15px;
+    margin-bottom: 10px;
+    padding: 1px;
+    background-color: white;
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    color: gray;
+    width: max-content;
+    border-radius: 2px;
+    
+}
+
+.dolar-hand {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.fa-bars{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #1259c3;
+    border-radius: 4px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer h2, footer p {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.footer-icons {
+    color: #1259c3;
+    font-size: 2em;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+.copyright {
+    font-size: 12px;
+    color: lightgrey;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
